@@ -26,8 +26,8 @@ I coded this repository in my early days as a rookie programmer, and it has been
 * <font color=orange>predict.py:</font> predicting to generate saved image(demo)
 
 ## Special Thanks
-![Aladdin Persson](https://www.youtube.com/@AladdinPersson)</br>
-His ![video](https://www.youtube.com/watch?v=IHq1t7NxS8k&t=2s) about how to rebuild a original U-NET inspire me a lot.</br>
+[Aladdin Persson](https://www.youtube.com/@AladdinPersson)</br>
+His [video](https://www.youtube.com/watch?v=IHq1t7NxS8k&t=2s) about how to rebuild a original U-NET inspire me a lot.</br>
 Institute: [Urban Mobility Institute of Tongji Uni](https://umi.tongji.edu.cn/index.htm)
 
 ## 写给课题组内同门
