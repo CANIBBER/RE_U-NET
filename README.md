@@ -4,7 +4,7 @@
 
 ### Before Start：
 This is my first and probably last academic practicum. I hope you enjoy it.
-I coded this repository in my early days as a rookie programmer, and it has been with me for a long time. helped me deal with many difficult tasks. Now I'm improving it and making it open-source for all newcomers. I believe it could put a perfect end to my failed academic career.
+I coded this repository in my early days as a rookie programmer, and it has been with me for a long time. helped me deal with many difficult tasks. Now I'm improving it and making it open-source for all newcomers. I believe it could put a perfect end to my academic career.
 
 ## Important Issue
 * this repository was directly built on latest Google Colab GPU Environment(torch 1.13.1+cu116)</br>
