@@ -16,8 +16,8 @@ I coded this repository in my early days as a rookie programmer, and it has been
 * <font color=red>This repository is NOT a long-term support repository</font></br></br>
 
 * <font color=orange>I did not and will not offer any Architecture Diagram, for reasons below:</font></br>
-   1. This model is based on U-NET, which is very common on the Int.
-   2. Concluding the Architecture by yourself will improve you rapidly.
+   1. This model is based on U-NET, which is a very classic model.
+   2. Concluding the Architecture is a good training for rookies.
   3. ~~Tired of drawing Architecture Diagram~~
 ## Code Catalogue & Abstract
 * <font color=orange>re_NET_lw.py:</font> Including structure of RE_U-NET
