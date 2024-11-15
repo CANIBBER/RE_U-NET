@@ -30,14 +30,6 @@ I coded this repository in my early days as a rookie programmer, and it has been
 His [video](https://www.youtube.com/watch?v=IHq1t7NxS8k&t=2s) about how to rebuild a original U-NET inspire me a lot.</br>
 Institute: [Urban Mobility Institute of Tongji Uni](https://umi.tongji.edu.cn/index.htm)
 
-## 写给课题组内同门
-<font color=red>如果你选了深度学习算法相关课程，切记请不要直接将这份代码作为作业提交！</font></br>
-一方面是我不喜欢别人用我的代码逃课，~~另一方面是我已经用这代码逃课很多次了~~</br>
-现在黄渡镇几乎所有CV相关老师都见过这份代码至少一次。</br></br>
-我开源这个项目的主要原因是：</br>
-希望能帮助需要学习相关技术或是对此方面感兴趣的非程序出身的学生</br>
-希望我自己折腾三个通宵的成果，在未来的某一天，能帮某个天才节省一到两小时的科研时间</br></br>
-本人没什么科研能力，只能做点微小的工作，抱歉。
 
 
 
